@@ -1,7 +1,7 @@
 #__________________| INFO |___________________#
 #______SCRIPT ENCRYPTED BY PYTHON 3.0
 #______CODING BY: U7P4L 1N
-#______GITHUB : https://github.com/U7P4L-IN
+#______GITHUB : https://github.com/SEX-IN
 #________________| SCRIPT DATA |_____________#
 
 import marshal,zlib,base64
