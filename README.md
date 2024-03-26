@@ -36,5 +36,5 @@
 
 -  `cd sex`
 
--  `python Fahad.py`
+-  `python Sexytool_enc.py`
 -  
